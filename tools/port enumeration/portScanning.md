@@ -9,4 +9,4 @@ General use: </br></br>
 
 ## Masscan
 General use: </br></br>
-`sudo masscan -e tun0 -p1-65535,U:1-65535 10.129.92.165 --rate=500`
+`sudo masscan -e tun0 -p1-65535,U:1-65535 <IP> --rate=500`
